@@ -8,9 +8,9 @@ A 3-step process was used to achieve the desired results, the steps are:
     1. Tweets will be cleaned and pre-processed.
     2. Identify semantic relationships using Lemmatization, Tokenization, named entity recognition 
     and sentiment analysis.
-    3. Apply clustering algorithms. As data is unlabeled tweets, we will use unsupervised ML techniques 
-    such as Latent Dirichlet Allocation (LDA) Topic Modeling, Non-negative Matrix Factorization (NMF) Topic Modeling, 
-    and K-Means clustering.
+    3. Apply clustering algorithms. As data is unlabeled tweets, we will use unsupervised 
+    ML techniquessuch as Latent Dirichlet Allocation (LDA) Topic Modeling, Non-negative 
+    Matrix Factorization (NMF) Topic Modeling, and K-Means clustering.
 
 #### Structure of the project code
 1. ```analyze_tweets_and_cluster_toy_dataset.ipynb``` - use this with ``` c1_toy_dataset.csv```
